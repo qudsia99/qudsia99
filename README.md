@@ -16,7 +16,7 @@ mention SQL somewhere
 - Flask app, user-interactive predictor tool
 - EDA and ETL
 
-[Link Text](https://github.com/Yasmin-9/ClaimSights)
+[ClaimSights - A health insurance claim predictor](https://github.com/Yasmin-9/ClaimSights)
 
 
 #### HTML/CSS 
