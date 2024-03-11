@@ -1,6 +1,6 @@
 ## Hello, nice to meet you! I am Qudsia Ahmad 😄
 ### Data Analyst
-Welcome to my GitHub profile! I'm Qudsia Ahmad, a passionate data analyst with a focus on FIX THIS >>>>>>exploratory data analysis (EDA), ETL processes, and SQL querying.
+Welcome to my GitHub profile! I'm Qudsia Ahmad, a passionate data analyst with a proficient hand in statistical analysis and Machine Learning.
 
 ### Key Skills 📊:
 #### Exploratory Data Analysis (EDA):
