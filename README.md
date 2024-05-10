@@ -19,6 +19,9 @@ Welcome to my GitHub profile! I'm Qudsia Ahmad, a passionate data analyst with a
 - Skilled in building predictive machine learning models shaped around data type and structure, using supervised and unsupervised models, with accuracy rates scoring over 80%. 
 
 ### Featured Projects 🚀:
+[Movie Recommender - Flask App](https://github.com/qudsia99/movie_recommender)
+An independent project building a film recommendation engine, using unsupervised machine learning with NLP via TF-IDF Vectorization, made dynamic with FLASK app that queries search inputs through processed and cleaned movie data of over 5000 movies.
+
 [ClaimSights - A Health Insurance Claim Predictor](https://github.com/Yasmin-9/ClaimSights)
 An innovative project involving the implementation of the random forest algorithm (supervised machine model) within a Flask app. This tool provides an interactive way to predict health insurance claims.
 
