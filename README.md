@@ -34,6 +34,3 @@ Demonstrates my expertise in EDA and ETL processes using SQL postgres.
 [Matplotlib](https://github.com/qudsia99/matplotlib-challenge)
 Showcase of analytics in Python using pandas, numpy, and matplotlib.
 
-
-Let's Connect 🌐:
-LinkedIn: [Qudsia Ahmad](www.linkedin.com/in/qudsia-ahmad-92b18515a)
