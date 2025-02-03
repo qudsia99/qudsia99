@@ -25,8 +25,11 @@ An independent project building a film recommendation engine, using unsupervised
 [ClaimSights - A Health Insurance Claim Predictor](https://github.com/Yasmin-9/ClaimSights)
 An innovative project involving the implementation of the random forest algorithm (supervised machine model) within a Flask app. This tool provides an interactive way to predict health insurance claims.
 
-[COVID19 Dashboard](https://github.com/qudsia99/covid19-dashboard) 
-A Collaboratively built dashboard on COVID19 data, hosted by local API Flask APP, with connection built from postgres database.
+[COVID19 Provincial Crime Dashboard](https://github.com/qudsia99/covid19-dashboard) 
+A collaboratively built dashboard on COVID19 data, hosted by local API Flask APP, with connection built from postgres database.
+
+[Toronto MCI Crime 2014-2024 Dashboard](https://public.tableau.com/views/toronto_crime_17380966446950/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+A dashboard built using Tableau, featuring Toronto MCI crime data, from TPS official site utilizing over 400k rows of data.
 
 [Crowdfunding_ETL](https://github.com/Lovepreet008/Crowdfunding_ETL)
 Demonstrates my expertise in EDA and ETL processes using SQL postgres.
